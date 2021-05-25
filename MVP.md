@@ -10,7 +10,7 @@ Given these circumstances, ABC medical center which operates primarily in the ea
 
 A regression Model which can predict profits given a combination of location, size, insurance contracts and expenses.
 
-### Preliminary impact hypothesis
+### Preliminary Impact Hypothesis
 
 ABC medical center was able to establish 2 profitable medical centers over a period of 3 years by considering the recommendations given by the built model.
 
