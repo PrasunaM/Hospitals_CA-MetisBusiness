@@ -1,4 +1,4 @@
-# Business Module: Medical centers in California
+# Business Module: Medical Centers in California
 
 ### Opportunity
 California is the 3rd largest state in the United states with a population of around 39.37 million. Unfortunately, it only offers [1.9 beds per 1000 people](https://www.kff.org/other/state-indicator/beds-by-ownership/?currentTimeframe=0&selectedDistributions=total&sortModel=%7B%22colId%22:%22Total%22,%22sort%22:%22asc%22%7D) which is below the national average of 2.89 and 3rd lowest in the country. With Coronavirus on an unexpected surge last year this capacity was tested to its limits. 
@@ -17,12 +17,12 @@ ABC medical center was able to establish 2 profitable medical centers over a per
 ### Preliminary Visualizations
 
 
-#### Net Patient Revenue by County
+#### 1.Net Patient Revenue by County
 In order to identify the most and least profitable counties over the years, I created a pivot table and grouped net patient revenue by county and year. Please review below visualization from Excel:
 
 ![Excel Net patient revenue by County](https://github.com/PrasunaM/Metis_Business/blob/8b9c5724ae4c9b18e96cbfd41694e047fc079445/Screen%20Shot%202021-05-25%20at%202.27.36%20PM.png)
 
-#### Distribution of medical centers by counties 
+#### 2.Distribution of medical centers by counties 
 
 Below map displays the distribution of medical centers by counties. Next step is to compare these clusters with the population distribution. 
 
