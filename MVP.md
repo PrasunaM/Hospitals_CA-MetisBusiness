@@ -12,13 +12,20 @@ A regression Model which can predict profits given a combination of location, si
 
 ### Preliminary impact hypothesis
 
-Considering the recommendations given by the built model, ABC medical center is able to establish 2 profitable medical centers over a period of 3 years.
+ABC medical center was able to establish 2 profitable medical centers over a period of 3 years by considering the recommendations given by the built model.
 
 ### Preliminary Visualizations
 
-In order to identify the most and least profitable counties over the years, I created a pivot table and grouped net patient revenue by county and year. Please review below visualization from Excel
 
+#### Net Patient Revenue by County
+In order to identify the most and least profitable counties over the years, I created a pivot table and grouped net patient revenue by county and year. Please review below visualization from Excel:
 
+![Excel Net patient revenue by County](https://github.com/PrasunaM/Metis_Business/blob/8b9c5724ae4c9b18e96cbfd41694e047fc079445/Screen%20Shot%202021-05-25%20at%202.27.36%20PM.png)
 
+#### Distribution of medical centers by counties 
+
+Below map displays the distribution of medical centers by counties. Next step is to compare these clusters with population. 
+
+![Tableau County Map](https://github.com/PrasunaM/Metis_Business/blob/0c01c8ada9d89197a2ea147bbc56951f3b67988e/Screen%20Shot%202021-05-25%20at%202.43.59%20PM.png)
  
 
