@@ -11,7 +11,7 @@ This research was performed as part of a feasibility analysis for expansion proj
 * Finding were [presented](https://github.com/PrasunaM/Metis_Business/blob/ac193f1d73e1d3adf70f8acc0692c98d4dfb41ab/Slides_Business%20Module_%20Hospitals%20in%20California.pdf) to the class
  <br />
 
-Here's an image of the dashboard. Live Dashboard is [here](https://public.tableau.com/views/MetisBusinessModule/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
+Here's an image from the dashboard. Live Dashboard is [here](https://public.tableau.com/views/MetisBusinessModule/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
 <br />
 <br />
 <br />
